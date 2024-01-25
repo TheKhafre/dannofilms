@@ -1,0 +1,59 @@
+/*=================== GENERAL CSS STYLING =====================*/
+html {
+
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    line-height: 1.6;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: 0;
+    border: 0;
+    appearance: 0;
+    list-style: none;
+}
+
+.myrule {
+    border: 1px solid black;
+}
+
+/*=================== BASIC STUFFS STYLING =====================*/
+.wrapper{
+    margin: auto;
+    max-width: 1200px;
+}
+
+img {
+    display: block;
+    object-fit: contain;
+    overflow: hidden;
+}
+
+a {
+    color: black;
+    cursor: pointer;
+    transition: all 300ms ease;
+}
+
+span{
+    transition: all 300ms ease;
+}
+
+#site_name{
+    font-size: 3rem;
+}
+
+
+/*=================== BASIC STUFFS STYLING =====================*/
+.name{
+    /* font-family: 'Playfair Display SC', serif; */
+    font-size: 3rem;
+}
