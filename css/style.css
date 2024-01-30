@@ -58,3 +58,7 @@ span{
     /* font-family: 'Playfair Display SC', serif; */
     font-size: 3rem;
 }
+
+#other_text {
+    color: white;
+}
